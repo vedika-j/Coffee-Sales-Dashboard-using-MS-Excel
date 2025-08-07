@@ -33,15 +33,3 @@ An interactive Excel dashboard that analyzes coffee sales performance across reg
 
 Ideal for demonstrating Excel-based data analytics skills, useful in internships and roles focused on business intelligence, operations, or data-driven decision-making.
 
-## 📸 Preview
-
-*(Add a screenshot of your dashboard here if possible)*
-
-## 📌 Bonus Tip
-
-This project is great to showcase:
-- Business acumen
-- Storytelling with data
-- Excel dashboarding capabilities
-
----
